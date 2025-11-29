@@ -1,11 +1,5 @@
 <h1 align="center"> Ahmed Hassan — Mechanical Power Engineer Portfolio</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-Live-success" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-</p>
 
 <p align="center">
 A modern, responsive portfolio for <strong>Ahmed Hassan</strong>, a Mechanical Power Engineer specializing in <strong>MEP systems</strong>.  
@@ -13,9 +7,9 @@ A modern, responsive portfolio for <strong>Ahmed Hassan</strong>, a Mechanical P
 
 ---
 
-##  Live Demo
+## 🎬 Live Demo
 
-<a href="https://a-hassann.github.io/Ahmed-Hassan/" target="_blank"><p><b>Ahmed Hassan</b></p> </a>
+https://3mmar3bdalkber.github.io/How-To-Start-Roadmap/index.html
 
 ---
 
@@ -47,14 +41,6 @@ Mechanical Power Engineer
 📧 **ahmedhassan.mech@gmail.com**  
 📍 **Egypt**
 
-<a href="https://www.facebook.com/share/1AxBQWBikd/" 
-   class="social-btn facebook" 
-   target="_blank" 
-   rel="noopener noreferrer">
-    <i class="fab fa-facebook-f"></i>
-    <span>Facebook</span>
-</a>
-
 <a href="mailto:ahmedhassan.mech@gmail.com" 
    class="social-btn gmail" 
    target="_blank" 
@@ -79,19 +65,6 @@ Mechanical Power Engineer
     <span>WhatsApp</span>
 </a>
 
-<a href="https://t.me/eahmed90" 
-   class="social-btn telegram" 
-   target="_blank" 
-   rel="noopener noreferrer">
-    <i class="fab fa-telegram"></i>
-    <span>Telegram</span>
-</a>
-
-
----
-
-##  License
-This project is open-source under the **MIT License**.
 
 ---
 
