@@ -46,11 +46,46 @@ Mechanical Power Engineer
 📧 **ahmedhassan.mech@gmail.com**  
 📍 **Egypt**
 
-<p>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
+<a href="https://www.facebook.com/share/1AxBQWBikd/" 
+   class="social-btn facebook" 
+   target="_blank" 
+   rel="noopener noreferrer">
+    <i class="fab fa-facebook-f"></i>
+    <span>Facebook</span>
+</a>
+
+<a href="mailto:ahmedhassan.mech@gmail.com" 
+   class="social-btn gmail" 
+   target="_blank" 
+   rel="noopener noreferrer">
+    <i class="fab fa-google"></i>
+    <span>Gmail</span>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmeeddhassan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+   class="social-btn linkedin" 
+   target="_blank" 
+   rel="noopener noreferrer">
+    <i class="fab fa-linkedin"></i>
+    <span>Linkedin</span>
+</a>
+
+<a href="https://wa.me/201202322465" 
+   class="social-btn whatsapp" 
+   target="_blank" 
+   rel="noopener noreferrer">
+    <i class="fab fa-whatsapp"></i>
+    <span>WhatsApp</span>
+</a>
+
+<a href="https://t.me/eahmed90" 
+   class="social-btn telegram" 
+   target="_blank" 
+   rel="noopener noreferrer">
+    <i class="fab fa-telegram"></i>
+    <span>Telegram</span>
+</a>
+
 
 ---
 
